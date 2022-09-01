@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="api_key">90bc2a518ac995b2dc81ad16bfa6f550</string>
+    <string name="connectivity_error">Error de conectividad</string>
+    <string name="server_error">Error en el servidor</string>
+    <string name="unknown_error">Error desconocido</string>
+</resources>
